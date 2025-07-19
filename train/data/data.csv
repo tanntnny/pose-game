@@ -1,0 +1,5 @@
+filename,label
+data/biceps_flex.npy,0
+data/cross_arms.npy,1
+data/hands_up.npy,2
+data/t_pose.npy,3
